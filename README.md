@@ -29,6 +29,12 @@ Es la implementacion del portafoli se compone de:
 ![image](https://github.com/user-attachments/assets/9f0056a0-0f77-4b6a-9379-a6a920b65b3d)
 
 
+## Template Name: EasyFolio
+## Template URL: https://bootstrapmade.com/easyfolio-bootstrap-portfolio-template/
+## Author: BootstrapMade.com
+## License: https://bootstrapmade.com/license/
+
+
 
 
 
